@@ -39,7 +39,7 @@ feature:
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 - icon: "prog_lang"
-  icon_pack: "custom"
+  icon_pack: "icons"
   name: "Programming Language"
   description: "90%"
 ---
