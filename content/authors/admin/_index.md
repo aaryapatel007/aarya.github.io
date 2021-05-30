@@ -29,7 +29,7 @@ education:
   courses:
   - course: B.Tech in Computer Science
     institution: JIIT Noida
-    year: 2020
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +40,7 @@ social:
   icon_pack: fas
   link: "mailto:aaryapatel98@gmail.com"
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=ZdpOU8AAAAAJ&hl=en&authuser=2
 - icon: github
   icon_pack: fab
