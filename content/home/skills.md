@@ -38,8 +38,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-- icon: "prog_lang"
-  icon_pack: "icons"
+- icon: "org-gc"
+  icon_pack: "brands"
   name: "Programming Language"
   description: "90%"
 ---
