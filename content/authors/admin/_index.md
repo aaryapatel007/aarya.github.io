@@ -65,6 +65,6 @@ highlight_name: false
 
 Hey! I'm Aarya, a *Data Scientist (Associate)* at Vitrana! I'm currently working on applying AI in the healthcare domains. 
 
-I live in Delhi NCR and love building awesome AI tools which can benefit the humankindd.
+I live in Delhi NCR and love building awesome AI tools which can benefit the humankind.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/Aarya_Patel_CV(Research).pdf" "newtab" >}}resumé{{< /staticref >}}.
