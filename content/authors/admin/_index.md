@@ -18,11 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Deep Learning
-- Medical Image Analysis
 - Computer Vision
-- Natural Language Processing
+- Deep Learning
+- Robotics
+- Medical Image Analysis
+- Reinforcement Learning
 
 # Education to show in About widget
 education:
